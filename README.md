@@ -3,7 +3,6 @@ Hello I'm Katerina and I'm undergraduate Computer Science Student @ Athens Unive
 #
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerinaarf)](https://github.com/katerinaarf/github-readme-stats)
 
 
   <tr>
