@@ -1,16 +1,12 @@
-## Hi there 👋
+#
+Hello I'm Katerina and I'm undergraduate Computer Science Student @ Athens University of Economics and Business <table style="text-align:center;">
 
-<!--
-**katerinaarf/katerinaarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerinaarf)](https://github.com/katerinaarf/github-readme-stats)
+  <tr>
+    <th> <a href="https://www.linkedin.com/in/katerina-arfani-4267402b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </th>
+    <th><a href = "https://open.spotify.com/user/katerina.arf?si=a6932377ef1144b8"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+    </th>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
